@@ -1,9 +1,6 @@
 # Udacity-Restaurant-Review
 This project is a part of Udacity front-end nanodegree program.
 
-# Udacity-Restaurant-Review
-This project is a part of Udacity front-end nanodegree program.
-
 ## Description
 
 * Project created as part of the Udacity Front-End Developer Nanodegree.
